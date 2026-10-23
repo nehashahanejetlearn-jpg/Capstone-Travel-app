@@ -1,0 +1,6 @@
+{
+  "name": "Travel the World in 10 Days – The Ultimate Explorer",
+  "description": "An interactive global travel planner for Indian travellers exploring Malaysia, Singapore, Thailand, Bali, and Dubai in 10 days.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
